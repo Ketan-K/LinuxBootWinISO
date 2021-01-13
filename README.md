@@ -2,5 +2,5 @@
 
 ### Clone the file then follow the command
 ```sh
-sudo ./woeusb-5.0.4.bash --target-filesystem NTFS -d <PATH-TO-ISO> /dev/<device-name>
+sudo ./woeusb-5.0.4.bash --target-filesystem NTFS -d <path-to-iso> /dev/<device-name>
 ```
